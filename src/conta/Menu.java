@@ -89,7 +89,7 @@ public class Menu {
 		System.out.println("Projeto Desenvolvido por: ");
 		System.out.println("Lyncoln Campello - lyncolncamp@gmail.com");
 		System.out.println("https://github.com/lyncoln-campello");
-		System.out.println("*********************************************************");
+		System.out.println("**********************************************************");
 
 	}
 
